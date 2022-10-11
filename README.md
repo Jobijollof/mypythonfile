@@ -1,2 +1,2 @@
-# myScaDevopsportfolio
-Assingnment by SCA  DEVOPS BENIN to create a .py script
+# SCA DEVOPS BENIN
+All asignments for my SCA DEVOPS 2022
